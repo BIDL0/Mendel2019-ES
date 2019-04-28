@@ -1,0 +1,5 @@
+The 'all' subdirectory contains all solutions evolved using the CMR method
+in the cellular automaton with 12x12 cells and cyclic boundary conditions.
+
+The 'generic' subdirectory contains selected solutions from 'all' which showed
+to work correctly for any (larger) size of cellular automaton.

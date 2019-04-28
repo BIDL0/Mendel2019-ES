@@ -1,0 +1,7 @@
+The samples in both subdirectories represent the same solution except that:
+
+- 'complete' contains all modifying transition rules as they were evolved
+
+- 'optimized' contains only the rules which are needed to develop the pattern
+  (the optimization was performed by deterministically choosing the given rules
+   after obtaining the results from the evoluion)

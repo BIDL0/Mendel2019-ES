@@ -1,0 +1,29 @@
+ ******************************************************************************
+ ******            BiCAS - Bidlo's Cellular Automata Simulator          *******
+ ******************************************************************************
+
+                           (c) Michal Bidlo, BUT FIT
+                        http://www.fit.vutbr.cz/~bidlom
+
+ ******************************************************************************
+
+This program requires the Python environment with NumPy and PyGame libraries
+installed. An up-to-date Linux-like OS is strongly preferred.
+
+To run an example, enter a selected subdirectory containing .tab files and run:
+
+./BiCAS.py
+
+or
+
+python BiCAS.py
+
+and follow the help notes shown by BiCAS.
+
+
+To play with CAs, add, remove or modify the rules in .tab files or create your
+own! The file default.cas allows specifying a custom initial CA configuration,
+the original one means that a single cell (centered in the CA lattice) will be
+in state 1 (a seed cell), all the other cells will be in state 0 by default.
+
+Enjoy!
